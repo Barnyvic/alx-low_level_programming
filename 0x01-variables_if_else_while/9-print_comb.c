@@ -13,6 +13,7 @@ int main(void)
 		if (n != 57)
 		{
 			putchar(' ');
+		}
 	}
 	putchar('\n');
 	return (0);
